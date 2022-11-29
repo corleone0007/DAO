@@ -30,4 +30,3 @@ contract FakeNFTMarketplace {
         return false;
     }
 }
-
